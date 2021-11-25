@@ -53,9 +53,9 @@
 ![6-7](https://user-images.githubusercontent.com/93786746/143367511-6565864a-a9bb-49bb-8cc9-fdc4c687b5b7.png)
 ## <p align=center> 6.8 Potencia en circuitos en paralelo 6.9 Aplicaciones de circuitos en paralelo
 ![6-8-9](https://user-images.githubusercontent.com/93786746/143367560-4a461de3-bfc2-4e2f-9f2b-5dd3a1026966.png)
-
 ## <p align=center> 6.10
-  
+![6-10](https://user-images.githubusercontent.com/93786746/143382196-b82f956e-10c5-4569-8763-b8c78aa33225.png)
+
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Ley de Ohm" y "Energía y Potencia".
