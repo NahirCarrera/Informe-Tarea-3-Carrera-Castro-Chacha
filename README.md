@@ -15,20 +15,18 @@
   * 
 ## 2. Resumen
   # CAPÍTULO 5: <p align=center> Circuitos en Serie
-## <p align=center> 5.1 
-
+## <p align=center> 5.1
+![Resistores en Serie ](https://user-images.githubusercontent.com/93829976/143500570-d4c19076-b5fc-41fd-8196-efbb75ea8b30.jpeg)
 ## <p align=center> 5.2 
-
+![CORRIENTE EN UN CIRCUITO EN SERIE](https://user-images.githubusercontent.com/93829976/143500581-bc399bbb-4693-43c2-826a-d7dd0a50106e.jpeg
 ## <p align=center> 5.3 
-
+![Resistencia total en serie](https://user-images.githubusercontent.com/93829976/143500587-0b55eee7-628a-42a7-adb4-023b660331d5.jpeg)
 ## <p align=center> 5.4 
-
-## <p align=center> 5.5 
-
-## <p align=center> 5.6
-  
+![Aplicación de la Ley de Ohm](https://user-images.githubusercontent.com/93829976/143500617-ddfb2318-35f8-4249-9a4c-ec9bbaf439ba.jpeg)
+## <p align=center> 5.5 - 5.6
+![Fuentes de voltaje en serie](https://user-images.githubusercontent.com/93829976/143500668-02382a73-f94d-4699-bcd8-a4c589746567.jpeg)  
 ## <p align=center> 5.7
-  
+![Divisores de voltaje](https://user-images.githubusercontent.com/93829976/143500676-ebc6da39-f513-46f5-89d4-fe013ea130f9.jpeg)
 ## <p align=center> 5.8 Potencia en circuitos en Serie
   ![5 8](https://user-images.githubusercontent.com/93829962/143328053-a727a789-7dfc-4f22-ace0-da56fd14bc30.jpeg)
 ## <p align=center> 5.9 Mediciones de Voltaje
