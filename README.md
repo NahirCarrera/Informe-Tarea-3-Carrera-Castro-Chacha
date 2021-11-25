@@ -18,7 +18,7 @@
 ## <p align=center> 5.1
 ![Resistores en Serie ](https://user-images.githubusercontent.com/93829976/143500570-d4c19076-b5fc-41fd-8196-efbb75ea8b30.jpeg)
 ## <p align=center> 5.2 
-![CORRIENTE EN UN CIRCUITO EN SERIE](https://user-images.githubusercontent.com/93829976/143500581-bc399bbb-4693-43c2-826a-d7dd0a50106e.jpeg
+![CORRIENTE EN UN CIRCUITO EN SERIE](https://user-images.githubusercontent.com/93829976/143500581-bc399bbb-4693-43c2-826a-d7dd0a50106e.jpeg)
 ## <p align=center> 5.3 
 ![Resistencia total en serie](https://user-images.githubusercontent.com/93829976/143500587-0b55eee7-628a-42a7-adb4-023b660331d5.jpeg)
 ## <p align=center> 5.4 
