@@ -45,16 +45,15 @@
   ![6 3](https://user-images.githubusercontent.com/93829962/143328125-5d9ccf6e-4041-4d7f-af45-98951779a71a.jpeg)
 ## <p align=center> 6.4 Resistencia total en Paralelo
   ![6 4](https://user-images.githubusercontent.com/93829962/143328135-669a51fe-ff75-4bb3-bad4-8cf1dd0f2675.jpeg)
-## <p align=center> 6.5
- 
-## <p align=center> 6.6
-  
-## <p align=center> 6.7
-  
-## <p align=center> 6.8
-  
-## <p align=center> 6.9
-  
+## <p align=center> 6.5 Aplicaciones Ley de OHM
+![6-5](https://user-images.githubusercontent.com/93786746/143367466-abd4d7c4-061a-4192-a57f-dd9f7c6e5a6b.png)
+## <p align=center> 6.6 Fuentes de corriente en paralelo
+![6-6](https://user-images.githubusercontent.com/93786746/143367491-bb9eb8c4-e6a6-4469-89e9-484b156bb448.png)
+## <p align=center> 6.7 Divisores de corriente
+![6-7](https://user-images.githubusercontent.com/93786746/143367511-6565864a-a9bb-49bb-8cc9-fdc4c687b5b7.png)
+## <p align=center> 6.8 Potencia en circuitos en paralelo 6.9 Aplicaciones de circuitos en paralelo
+![6-8-9](https://user-images.githubusercontent.com/93786746/143367560-4a461de3-bfc2-4e2f-9f2b-5dd3a1026966.png)
+
 ## <p align=center> 6.10
   
 ## 3. Explicación y resolución de ejercicios
