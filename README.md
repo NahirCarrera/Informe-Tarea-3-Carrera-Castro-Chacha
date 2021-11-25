@@ -45,7 +45,7 @@
   ![6 3](https://user-images.githubusercontent.com/93829962/143328125-5d9ccf6e-4041-4d7f-af45-98951779a71a.jpeg)
 ## <p align=center> 6.4 Resistencia total en Paralelo
   ![6 4](https://user-images.githubusercontent.com/93829962/143328135-669a51fe-ff75-4bb3-bad4-8cf1dd0f2675.jpeg)
-## <p align=center> 6.5 Aplicaciones Ley de OHM
+## <p align=center> 6.5 Aplicación de la Ley de OHM
 ![6-5](https://user-images.githubusercontent.com/93786746/143367466-abd4d7c4-061a-4192-a57f-dd9f7c6e5a6b.png)
 ## <p align=center> 6.6 Fuentes de corriente en paralelo
 ![6-6](https://user-images.githubusercontent.com/93786746/143367491-bb9eb8c4-e6a6-4469-89e9-484b156bb448.png)
