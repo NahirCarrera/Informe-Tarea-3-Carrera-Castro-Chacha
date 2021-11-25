@@ -58,8 +58,17 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Ley de Ohm" y "Energía y Potencia".
   ### Capítulo 5 - Ejercicios
+![image](https://user-images.githubusercontent.com/93829962/143502816-ae64ac66-da02-4607-882f-79b7584d8142.png)
+![image](https://user-images.githubusercontent.com/93829962/143502823-fb6dc551-1885-4ed7-b68c-30b03c1d8ebb.png)
+![image](https://user-images.githubusercontent.com/93829962/143502834-95708bb5-2033-4580-a9ef-60660da73e2f.png)
+![image](https://user-images.githubusercontent.com/93829962/143502855-c93cd41a-77a5-4d46-baa3-522e1c489a64.png)
+
 
   ### Capítulo 6 - Ejercicios
+
+![image](https://user-images.githubusercontent.com/93829962/143502879-38826669-2d17-43cd-8d13-a29eebc035f0.png)
+![image](https://user-images.githubusercontent.com/93829962/143502906-6a5e8ab1-3e60-42c3-a117-58d9955547ae.png)
+![image](https://user-images.githubusercontent.com/93829962/143502946-4ec89a38-82cb-404c-baf2-521ef5ab49bb.png)
 
 ## 4. Video
 
