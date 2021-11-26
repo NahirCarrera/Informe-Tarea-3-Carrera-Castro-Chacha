@@ -62,6 +62,11 @@
 ![image](https://user-images.githubusercontent.com/93829962/143502823-fb6dc551-1885-4ed7-b68c-30b03c1d8ebb.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502834-95708bb5-2033-4580-a9ef-60660da73e2f.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502855-c93cd41a-77a5-4d46-baa3-522e1c489a64.png)
+![Cap 5 Ejercicio 21](https://user-images.githubusercontent.com/93829976/143522601-1e179b00-3e43-4c4e-8b58-88fe87af4238.JPG)
+![Cap 5 Ejercicio 23](https://user-images.githubusercontent.com/93829976/143522610-b904a9fa-504c-4b02-9fbd-26194aa0db38.JPG)
+![Cap 5 Ejercicio 25](https://user-images.githubusercontent.com/93829976/143522627-f4a38d80-5f3f-42fa-a52b-6472789ce013.JPG)
+![Cap 5 Ejercicio 27](https://user-images.githubusercontent.com/93829976/143522629-ca56ca08-9ef6-4001-954c-57fae8147624.JPG)
+
 ![41-43 CAP 5](https://user-images.githubusercontent.com/93786746/143520745-1804e29e-ef11-481f-9db5-4968a78bcf7d.PNG)
 ###AQUÍ PÉGALE GUAPO 45
 ![47-49 CAP 5](https://user-images.githubusercontent.com/93786746/143520762-9e35b10a-d975-487e-86ca-1f0623a132f7.PNG)
