@@ -81,6 +81,7 @@
 ![Cap 6 Ejercicio 7-9](https://user-images.githubusercontent.com/93829976/143522879-5d0698ba-c010-430e-8798-3ead064e7a44.JPG)
 ![Cap 6 Ejercicio 11-13](https://user-images.githubusercontent.com/93829976/143522887-67e85de8-57c8-409d-865e-dee32e063bf5.JPG)
 ![Cap 6 Ejercicio 15-17](https://user-images.githubusercontent.com/93829976/143522902-652108c3-afd7-45ba-81c1-0a77e65258d7.JPG)
+![19 CAP 6](https://user-images.githubusercontent.com/93786746/143525548-abdd6ef7-55fb-4fbf-8510-5ae99bf9cadc.PNG)
 ![21-23 CAP 6](https://user-images.githubusercontent.com/93786746/143520823-55c15f1d-9af4-4761-abb0-4fb9ca67fca0.PNG)
 ![25-27 CAP 6](https://user-images.githubusercontent.com/93786746/143520829-1733f116-15d9-4363-8733-89799e4c0730.PNG)
 ![29 CAP 6](https://user-images.githubusercontent.com/93786746/143520836-74440c36-952b-4f01-b9fc-8495855c764e.PNG)
