@@ -62,9 +62,19 @@
 ![image](https://user-images.githubusercontent.com/93829962/143502823-fb6dc551-1885-4ed7-b68c-30b03c1d8ebb.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502834-95708bb5-2033-4580-a9ef-60660da73e2f.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502855-c93cd41a-77a5-4d46-baa3-522e1c489a64.png)
+![41-43 CAP 5](https://user-images.githubusercontent.com/93786746/143520745-1804e29e-ef11-481f-9db5-4968a78bcf7d.PNG)
+  AQUÍ PÉGALE GUAPO 45
+![47-49 CAP 5](https://user-images.githubusercontent.com/93786746/143520762-9e35b10a-d975-487e-86ca-1f0623a132f7.PNG)
+![51-55CAP 5](https://user-images.githubusercontent.com/93786746/143520783-ae6c7866-778c-495b-9e0a-d1587db0fe08.PNG)
+![57-59 CAP 5](https://user-images.githubusercontent.com/93786746/143520790-0dcb2918-8bf8-4704-804e-800a71b86949.PNG)
 
 
   ### Capítulo 6 - Ejercicios
+![21-23 CAP 6](https://user-images.githubusercontent.com/93786746/143520823-55c15f1d-9af4-4761-abb0-4fb9ca67fca0.PNG)
+![25-27 CAP 6](https://user-images.githubusercontent.com/93786746/143520829-1733f116-15d9-4363-8733-89799e4c0730.PNG)
+![29 CAP 6](https://user-images.githubusercontent.com/93786746/143520836-74440c36-952b-4f01-b9fc-8495855c764e.PNG)
+![31 CAP 6](https://user-images.githubusercontent.com/93786746/143520839-ee6e9900-5ec0-4a38-87b5-5b0e4e095375.PNG)
+![33 CAP 6](https://user-images.githubusercontent.com/93786746/143520843-224b8457-6f13-4756-b569-14229b21b8d6.PNG)
 
 ![image](https://user-images.githubusercontent.com/93829962/143502879-38826669-2d17-43cd-8d13-a29eebc035f0.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502906-6a5e8ab1-3e60-42c3-a117-58d9955547ae.png)
