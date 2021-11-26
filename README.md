@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * 
+  * Analizar los temas comprendidos entre los capítulos 5 y 6 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
-  *  
-  * 
-  * 
+  *  Desarrollar el tema del capítulo 5, usando conceptos fundamentales aprendidos con anterioridad para la comprensión del funcionamiento de un circuito en serie.
+  *  Explicar como funcionan los conceptos básicos de capítulos anteriores en la operatividad de un circuito en paralelo para resolver los problemas indicados.
+  *  Exponer la resolución de ejercicios resueltos de cada tema a través de un archivo multimedia para fundamentar el desarrollo de todos los problemas propuestos.
 ## 2. Resumen
   # CAPÍTULO 5: <p align=center> Circuitos en Serie
 ## <p align=center> 5.1 Resistores en Serie
