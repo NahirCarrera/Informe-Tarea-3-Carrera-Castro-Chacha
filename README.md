@@ -56,7 +56,7 @@
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
-   Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Ley de Ohm" y "Energía y Potencia".
+   Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos en Serie" y "Circuitos en Paralelo".
   ### Capítulo 5 - Ejercicios
 ![image](https://user-images.githubusercontent.com/93829962/143502816-ae64ac66-da02-4607-882f-79b7584d8142.png)
 ![image](https://user-images.githubusercontent.com/93829962/143502823-fb6dc551-1885-4ed7-b68c-30b03c1d8ebb.png)
