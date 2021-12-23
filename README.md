@@ -98,7 +98,7 @@
 
 
 ## 4. Video
-https://www.youtube.com/watch?v=6nHBAWtjvlU
+https://www.youtube.com/watch?v=THMyyAiYAFE
 ## 5. Conclusiones
   * Para concluir, los circuitos en serie y los circuitos en paralelo cumplen con leyes y conceptos fundamentale como lo son: la ley de Ohm o la ley de Watts. Además, los distintos componentes (resistencias, fuentes de energía, entre otros) se pueden implementar de manera paralela o en serie. La potencia y energía también se ven involucrados, ya que las caídas de voltaje se dan en los dos tipos de circuito. El proceso de localización de fallas es similar en los dos y estas fallas pueden darse debido a varias causas como: un componente fundido, una mala soldadura, uso inadecuado de los componentes, entre otros.  
   * Pese a que estos dos tipos de circuitos poseen cosas en común, tienen varias diferencias como en el cálculo de corrientes o el cálculo de resistencias. En un circuito en serie la corriente total recorre todo el circuito y es única, en los circuitos en paralelo la corriente se divide al llegar a un nodo que posee diversas ramas. En tanto a las resistencias, en un circuito en serie la resistencia total es la suma de todas las resistencias presentes, mientras que en circuitos en paralelo la resistencia total es igual a 1 sobre la suma de los recíprocos de las resistencias presentes. Sin embargo, tener un circuito en paralelo trae ventajas como por ejemplo si se funde un componente la corriente sigue por otros lados mientras que en un circuito en serie la corriente se detiene por el daño.
